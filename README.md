@@ -21,6 +21,11 @@ swoole扩展
 pecl install swoole
 ```
 
+redis扩展
+```shell
+pecl install redis
+```
+
 swoole框架
 ```shell
 composer install
